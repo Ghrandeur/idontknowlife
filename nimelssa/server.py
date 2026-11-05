@@ -78,6 +78,8 @@ class Handler(SimpleHTTPRequestHandler):
         return not origin or urlparse(origin).netloc==self.headers.get('Host')
     def do_GET(self):
         path=urlparse(self.path).path
+        if path.startswith('/api/nimelssa/'):
+            path='/api/'+path[len('/api/nimelssa/'):]
         if path=='/api/content':
             return self.send_json({k:clean_public(k,v) for k,v in payload().items()})
         if path=='/api/session':
@@ -126,6 +128,8 @@ class Handler(SimpleHTTPRequestHandler):
     def do_POST(self):
         if not self.same_origin():return self.send_json({'error':'Request origin not allowed.'},403)
         path=urlparse(self.path).path
+        if path.startswith('/api/nimelssa/'):
+            path='/api/'+path[len('/api/nimelssa/'):]
         try:
             obj=self.body()
             if path=='/api/login':
