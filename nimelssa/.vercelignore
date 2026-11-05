@@ -1,0 +1,15 @@
+node_modules/
+.data/
+.git/
+.vercel/
+.env
+.env.*
+__pycache__/
+*.py[cod]
+server.py
+Dockerfile
+tests.cjs
+package.json
+package-lock.json
+README.md
+assets/user-uploads/

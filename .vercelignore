@@ -1,0 +1,13 @@
+.venv/
+nimelssa/node_modules/
+nimelssa/.data/
+nimelssa/.git/
+nimelssa/.vercel/
+nimelssa/.env
+nimelssa/.env.*
+nimelssa/__pycache__/
+nimelssa/*.py[cod]
+nimelssa/server.py
+nimelssa/Dockerfile
+nimelssa/tests.cjs
+nimelssa/assets/user-uploads/

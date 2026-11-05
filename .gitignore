@@ -1,0 +1,7 @@
+# Local environment and editor folders
+.venv/
+.vscode/
+
+# Local generated content
+*.log
+__pycache__/

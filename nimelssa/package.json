@@ -1,0 +1,17 @@
+{
+  "name": "nimelssa-university-of-uyo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "python server.py --port 3000",
+    "test": "node tests.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "NIMELSSA full community platform \u2014 green and yellow rebrand",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1"
+  },
+  "private": true
+}

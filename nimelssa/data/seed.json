@@ -1,0 +1,402 @@
+{
+  "faculty": {
+    "name": "NIGERIAN MEDICAL LABORATORY SCIENCE STUDENTS ASSOCIATION (UNIUYO)",
+    "content": "NIMELSSA UNIUYO is the student association for Medical Laboratory Science at the University of Uyo. This site brings the association’s information, study resources and student services into one place.",
+    "mission": "Help MLS students find study resources, understand association updates and get in touch with their student representatives.",
+    "vision": "Keep departmental information clear, useful and accessible to the students who need it.",
+    "history": ""
+  },
+  "leaders": [],
+  "parliamentarians": [],
+  "departments": [
+    {
+      "id": "medical-laboratory-science",
+      "name": "Medical Laboratory Science",
+      "description": "A community of students exploring the science behind laboratory investigation, diagnostic knowledge and evidence informed healthcare.",
+      "note": "Discipline descriptions on this site are introductory information, not an official course catalogue."
+    }
+  ],
+  "gallery": [],
+  "archive": [],
+  "documents": [],
+  "past-questions": [
+    {
+      "id": "wKD1mzJ09KqPEFwDYXLz",
+      "fileName": "BASIC MEDICAL PARASITOLOGY ",
+      "fileUrl": "https://drive.google.com/drive/folders/1IlsRmDgayea_P6fBgNsUKZVfLN6oPDje",
+      "subject": "PARASITOLOGY ",
+      "semester": "300",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783280905,
+        "_nanoseconds": 21000000
+      }
+    },
+    {
+      "id": "brHvew8GXSaGhEmJkA8o",
+      "fileName": "BLOOD SEROLOGY ",
+      "fileUrl": "https://drive.google.com/drive/folders/14MWd6W8y5P_P7bs1oHCqB3N3OB67yLyz",
+      "subject": "BLOOD SEROLOGY ",
+      "semester": "300",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783280879,
+        "_nanoseconds": 800000000
+      }
+    },
+    {
+      "id": "aFxdJhOjqXm0GAwR8CoM",
+      "fileName": "MOLECULAR DIAGNOSTICS ",
+      "fileUrl": "https://drive.google.com/drive/folders/1vd5ZWInxgGLJrF3TdlnMGSM89HyPLjn1",
+      "subject": "MOLECULAR DIAGNOSTICS ",
+      "semester": "300",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783280838,
+        "_nanoseconds": 997000000
+      }
+    },
+    {
+      "id": "eREYknp741f8roBIPeRE",
+      "fileName": "BIOINFORMATICS ",
+      "fileUrl": "https://drive.google.com/drive/folders/1bl7ace5Z-2o23e05w-uCFodIOSB9jFWL",
+      "subject": "BIOINFORMATICS ",
+      "semester": "300",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783280808,
+        "_nanoseconds": 223000000
+      }
+    },
+    {
+      "id": "HGsFXBGJTGXE1R34rkW7",
+      "fileName": "BASIC CLINICAL CHEMISTRY ",
+      "fileUrl": "https://drive.google.com/drive/folders/1cdtLKBNq5i5QFrxRjnneZnvhOBzzjcbX",
+      "subject": "CHEMPATH",
+      "semester": "300",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783280765,
+        "_nanoseconds": 240000000
+      }
+    },
+    {
+      "id": "j8M1b1ckK8JroY7JuJgr",
+      "fileName": "BASIC HISTOPATHOLOGY ",
+      "fileUrl": "https://drive.google.com/drive/folders/1F4btrfx3udT9hK-6u3gT7sK8qxYObdok",
+      "subject": "HISTOPATHOLOGY",
+      "semester": "300",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783280715,
+        "_nanoseconds": 136000000
+      }
+    },
+    {
+      "id": "IS5zWFgo2xBVPzBOetbe",
+      "fileName": "BASIC MICROBIOLOGY ",
+      "fileUrl": "https://drive.google.com/drive/folders/1mKkcQxXbDogw3wsoiiQIERsYrCCVe_kr",
+      "subject": "MICROBIOLOGY ",
+      "semester": "300",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783280689,
+        "_nanoseconds": 537000000
+      }
+    },
+    {
+      "id": "h1z0s0tBtL28Bhs25Cpk",
+      "fileName": "BASIC HEMATOLOGY ",
+      "fileUrl": "https://drive.google.com/drive/folders/1j06fvm27kc6Qx1x0p0rjbEv1LEL-r9C_",
+      "subject": "HEMATOLOGY ",
+      "semester": "300",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783280668,
+        "_nanoseconds": 543000000
+      }
+    },
+    {
+      "id": "ihp9q21iHNuD1vTNrHin",
+      "fileName": "ENT 221",
+      "fileUrl": "https://drive.google.com/drive/folders/13zD9cfnUjbjByG_dwgZQNykIfCZGb9zP",
+      "subject": "ENTREPRENEURSHIP AND INNOVATION ",
+      "semester": "200",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783280276,
+        "_nanoseconds": 500000000
+      }
+    },
+    {
+      "id": "NFxl8OvMi5h1njogIobJ",
+      "fileName": "BIOSTATISTICS ",
+      "fileUrl": "https://drive.google.com/drive/folders/13x3Om7Fpit96QHCCLBAM-yg2YlGhEAU8",
+      "subject": "BIOSTATISTICS ",
+      "semester": "200",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783280230,
+        "_nanoseconds": 437000000
+      }
+    },
+    {
+      "id": "1pCxSybexWNUYyzrMsOx",
+      "fileName": "PHS 223",
+      "fileUrl": "https://drive.google.com/drive/folders/11ldGmAWs_O8CG9-cOJQ87yMZI2A0zKgw",
+      "subject": "GASTROINTESTINAL PHYSIOLOGY ",
+      "semester": "200",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783280209,
+        "_nanoseconds": 73000000
+      }
+    },
+    {
+      "id": "flfR5N9fbjEBS7G06QQj",
+      "fileName": "PHS 222",
+      "fileUrl": "https://drive.google.com/drive/folders/11Yx4E0BHJbRYJB7w0TIzF4wbMuFwh0wq",
+      "subject": "CARDIOVASCULAR PHYSIOLOGY ",
+      "semester": "200",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783280178,
+        "_nanoseconds": 346000000
+      }
+    },
+    {
+      "id": "hcylitLekYpboeIWpSCw",
+      "fileName": "MBC 221",
+      "fileUrl": "https://drive.google.com/drive/folders/11QUDKPyfW3cJ1mXYGzS3hH_EX0vh7bML",
+      "subject": "BIOCHEMISTRY ",
+      "semester": "200",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783280133,
+        "_nanoseconds": 803000000
+      }
+    },
+    {
+      "id": "kgcXlhM36WQy5xCxNyH8",
+      "fileName": "MLS 221",
+      "fileUrl": "https://drive.google.com/drive/folders/11MuSkjxnwgZH16isFUf7GH8rsKjJj3gD",
+      "subject": "INTRO TO MLS",
+      "semester": "200",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783280102,
+        "_nanoseconds": 557000000
+      }
+    },
+    {
+      "id": "XgBxoj1aBvlopnUzJXa9",
+      "fileName": "MLS 222",
+      "fileUrl": "https://drive.google.com/drive/folders/11LM2tGyhpDCSjq5ZIb7xlLSWgVtYe5US",
+      "subject": "MEDICAL PARASITOLOGY ",
+      "semester": "200",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783280069,
+        "_nanoseconds": 501000000
+      }
+    },
+    {
+      "id": "Nc3j6bGqD69PfEpRhW65",
+      "fileName": "GST 211",
+      "fileUrl": "https://drive.google.com/drive/folders/1oraYKkK6njRyRSW7QSXStaxsYxQN-lQE",
+      "subject": "PHILOSOPHY AND HUMAN EXISTENCE ",
+      "semester": "200",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783279971,
+        "_nanoseconds": 244000000
+      }
+    },
+    {
+      "id": "QLLzCFjFCNrkkk8xWaBT",
+      "fileName": "MBC 211",
+      "fileUrl": "https://drive.google.com/drive/folders/15E9ElCxSCo8lMcVPxJVWlKi5AJhPD2oQ",
+      "subject": "GENERAL BIOCHEMISTRY ",
+      "semester": "200",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783279931,
+        "_nanoseconds": 232000000
+      }
+    },
+    {
+      "id": "2QpVTKNc8JVIfba8Bs0N",
+      "fileName": "MLS 211",
+      "fileUrl": "https://drive.google.com/drive/folders/1p_CTmxqDhp7zmTm7aorG83jU6ztryR_m",
+      "subject": "IINTRODUCTION TO MEDICAL LABORATORY SCIENE ",
+      "semester": "200",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783279893,
+        "_nanoseconds": 331000000
+      }
+    },
+    {
+      "id": "6jHrFCg673NcJwbuvuJC",
+      "fileName": "PHS 212",
+      "fileUrl": "https://drive.google.com/drive/folders/1S6xfDUyAQAcuXe4wtHUWr8vXdJ6BBYbC",
+      "subject": "EXCITABLE TISSUES ",
+      "semester": "200",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783279855,
+        "_nanoseconds": 783000000
+      }
+    },
+    {
+      "id": "g9zfmNHaL3lXii7jImPe",
+      "fileName": "PHS211",
+      "fileUrl": "https://drive.google.com/drive/folders/11sGL3vb8VeJYAogluNKz6mXLdcT3hA1E",
+      "subject": "PHYSIOLOGY OF BLOOD ",
+      "semester": "200",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783279831,
+        "_nanoseconds": 907000000
+      }
+    },
+    {
+      "id": "dsOVNnI3efIUuPsjkheM",
+      "fileName": "ANA 213",
+      "fileUrl": "https://drive.google.com/drive/folders/1YXcQ8MNdN6F8RcBS2QcAlNm_Kt4xcQ8n",
+      "subject": "EMBRYOLOGY ",
+      "semester": "200",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783279807,
+        "_nanoseconds": 922000000
+      }
+    },
+    {
+      "id": "fPtZ3DxWDNx8z6IQZPi8",
+      "fileName": "ANA212",
+      "fileUrl": "https://drive.google.com/drive/folders/1rxE7lTWO8Sqo3_X67rjA8umX0pqarlZb",
+      "subject": "HISTOLOGY",
+      "semester": "200",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783279782,
+        "_nanoseconds": 890000000
+      }
+    },
+    {
+      "id": "WH675c6GIrTZSUU8uzd2",
+      "fileName": "ANA211",
+      "fileUrl": "https://drive.google.com/drive/folders/1oaHMnw89rbYPnrb1H2d-epHQTEqBO6S6",
+      "subject": "GROSS ANATOMY",
+      "semester": "200",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783279727,
+        "_nanoseconds": 472000000
+      }
+    },
+    {
+      "id": "l9FvBbOabhCRPyHIvKnX",
+      "fileName": "GST Use of English",
+      "fileUrl": "https://drive.google.com/file/d/1Y8LgSfa4CNAMaA5x8gFdB6cjrp_kIgKJ/view?usp=drivesdk",
+      "subject": "Use of ENGLISH ",
+      "semester": "100",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783279489,
+        "_nanoseconds": 171000000
+      }
+    },
+    {
+      "id": "P1xRz0IrToiIoKVK8Fl3",
+      "fileName": "BIO 111 B",
+      "fileUrl": "https://drive.google.com/file/d/1MUzTFrcxJpLI2tTOHo9d7GPx5OXnHtqB/view?usp=drivesdk",
+      "subject": "Biology Past Questions ",
+      "semester": "100",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783279431,
+        "_nanoseconds": 445000000
+      }
+    },
+    {
+      "id": "jSaXUFQtX0PFVtpLuKnc",
+      "fileName": "BIO 111",
+      "fileUrl": "https://drive.google.com/file/d/1MH0Lay0Q2vCU1aHxzuTWJhKAId9tNbfz/view?usp=drivesdk",
+      "subject": "Biology",
+      "semester": "100",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783279402,
+        "_nanoseconds": 890000000
+      }
+    },
+    {
+      "id": "vOAJpBrDQjILR5f7YRFB",
+      "fileName": "MATHS",
+      "fileUrl": "https://drive.google.com/file/d/1_DGU9L5CtRjEIPTXdTC7IBrTz_Kx1CJh/view?usp=drivesdk",
+      "subject": "Mathematics ",
+      "semester": "100",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783279287,
+        "_nanoseconds": 197000000
+      }
+    },
+    {
+      "id": "KiHLPWjieR4Iia2YwII4",
+      "fileName": "PHY111 B",
+      "fileUrl": "https://drive.google.com/file/d/1T4fNVFVxDn6112Udrw7uDvmDsbDp3-c1/view?usp=drivesdk",
+      "subject": "PHYSICS",
+      "semester": "100",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783279231,
+        "_nanoseconds": 743000000
+      }
+    },
+    {
+      "id": "tk5WdosTpE7WQwXZI7qC",
+      "fileName": "PHY111",
+      "fileUrl": "https://drive.google.com/file/d/1T4Z8XTjl_1TVKWfcSG7EBPCgZhqaJiy3/view?usp=drivesdk",
+      "subject": "PHYSICS",
+      "semester": "100",
+      "description": "",
+      "uploadDate": {
+        "_seconds": 1783279109,
+        "_nanoseconds": 410000000
+      }
+    }
+  ],
+  "marketplace": [],
+  "advisors": [],
+  "faq": [
+    {
+      "id": "find-resources",
+      "question": "Where can I find study materials?",
+      "answer": "Open Study resources to browse the library. Search by course or subject and filter by level. Confirm that a resource matches your current departmental course requirements."
+    },
+    {
+      "id": "resource-status",
+      "question": "Are the study materials an official course guide?",
+      "answer": "No. The library is a study support collection, not an approved curriculum or replacement for your lecturer’s instructions. Check course codes, content and schedules with the department."
+    },
+    {
+      "id": "submit-question",
+      "question": "How do I ask the community a question?",
+      "answer": "Use Ask a question on the Academic companion page. Keep your question respectful and avoid sharing private medical information. Submitted topics appear after administrator review."
+    }
+  ],
+  "topics": [],
+  "replies": [],
+  "socials": [],
+  "department-socials": [],
+  "settings": {
+    "email": "",
+    "phone": "",
+    "location": "Department of Medical Laboratory Science, University of Uyo, Akwa Ibom, Nigeria",
+    "brand": "NIGERIAN MEDICAL LABORATORY SCIENCE STUDENTS ASSOCIATION (UNIUYO)"
+  },
+  "newsletter": []
+}
